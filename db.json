@@ -1,6 +1,6 @@
 {
   "movie": {
-    "marvel": [
+    "hero": [
       {
         "title": "No way home",
         "image": "https://res.cloudinary.com/huuhuu/image/upload/v1648178443/movie/2034_03_ldqvh0.jpg",
@@ -33,6 +33,118 @@
           "Jeremy Renner",
           "Chadwick Boseman",
           "Paul Bettany"
+        ]
+      },
+
+      {
+        "title": "Black window",
+        "image": "https://res.cloudinary.com/huuhuu/image/upload/v1648178439/movie/914MHuDfMSL_wsd7or.jpg",
+        "year": "2021",
+        "director": ["Cate Shortland"],
+        "actors": [
+          "Scarlett Johansson",
+          "Florence Pugh",
+          "Rachel Weisz",
+          "David Harbour",
+          "Ray Winstone"
+        ]
+      },
+      {
+        "title": "Superman",
+        "image": "https://res.cloudinary.com/huuhuu/image/upload/v1648178444/movie/batman-v-superman-dawn-of-justice-superman-i28805_klbm4b.jpg",
+        "year": "2016",
+        "director": ["Zack Snyder"],
+        "actors": [
+          "Ben Affleck",
+          "Henry Cavill",
+          "Amy Adams",
+          "Jesse Eisenberg",
+          "Laurence Fishburne",
+          "Diane Lane",
+          "Jeremy Irons"
+        ]
+      },
+      {
+        "title": "Black panther",
+        "image": "https://res.cloudinary.com/huuhuu/image/upload/v1648178446/movie/black-panther-2-shuri-okoye-1642231348218860705550_vwjett.jpg",
+        "year": "2018",
+        "director": ["Ryan Coogler"],
+        "actors": [
+          "Chadwick Boseman",
+          "Michael B. Jordan",
+          "Danai Gurira",
+          "Lupita Nyong'o",
+          "Daniel Kaluuya",
+          "Martin Freeman",
+          "Winston Duke",
+          "Sterling K. Brown"
+        ]
+      },
+      {
+        "title": "Hulk",
+        "image": "https://res.cloudinary.com/huuhuu/image/upload/v1648178450/movie/hinh-nen-hulk-3_kbdpnb.jpg",
+        "year": "2008",
+        "director": ["Louis Leterrier"],
+        "actors": ["Edward Norton", "Liv Tyler", "Tim Roth", "William Hurt"]
+      },
+      {
+        "title": "Iron man",
+        "image": "https://res.cloudinary.com/huuhuu/image/upload/v1648178447/movie/iron-man-endgame_1_frk1qg.jpg",
+        "year": "2008",
+        "director": ["Jon Favreau"],
+        "actors": [
+          "Robert Downey Jr.",
+          "Gwyneth Paltrow",
+          "Terrence Howard",
+          "Jeff Bridges",
+          "Shaun Toub",
+          "Leslie Bibb",
+          "Faran Tahir",
+          "Sayed Badreya"
+        ]
+      },
+      {
+        "title": "The flash",
+        "image": "https://res.cloudinary.com/huuhuu/image/upload/v1648178458/movie/MV5BMDIzNzYwNTctZWY4Mi00YjQ2LWI5YWYtMzdmNDgwMGI4Yzk1XkEyXkFqcGdeQXVyMTkxNjUyNQ_._V1__yylaag.jpg",
+        "year": "2014",
+        "director": ["Greg Berlanti", "Andrew Kreisberg", "Geoff Johns"],
+        "actors": [
+          "Grant Gustin",
+          "Candice Patton",
+          "Carlos Valdes",
+          "Danielle Panabaker",
+          "Tom Cavanagh"
+        ]
+      },
+      {
+        "title": "Batman",
+        "image": "https://res.cloudinary.com/huuhuu/image/upload/v1648178456/movie/poster_batman-1_kle6kf.jpg",
+        "year": "2022",
+        "director": ["Matt Reeves"],
+        "actors": [
+          "Robert Pattinson",
+          "Zoë Kravitz",
+          "Colin Farrell",
+          "Paul Dano",
+          "John Turturro",
+          "Andy Serkis",
+          "Jayme Lawson",
+          "Alex Ferns"
+        ]
+      },
+      {
+        "title": "Thor",
+        "image": "https://res.cloudinary.com/huuhuu/image/upload/v1648178459/movie/www-motthegioi-vn_zgt6mw5rx3u4ywuydmc3_ml3wod.jpg",
+        "year": "2017",
+        "director": ["Taika Waititi"],
+        "actors": [
+          "Chris Hemsworth",
+          "Tom Hiddleston",
+          "Cate Blanchett",
+          "Mark Ruffalo",
+          "Idris Elba",
+          "Jeff Goldblum",
+          "Karl Urban"
         ]
       }
     ]
