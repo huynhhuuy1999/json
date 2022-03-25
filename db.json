@@ -1,7 +1,40 @@
 {
-  "friend": [
-    {
-      "name": "Huỳnh Hữu Ý"
-    }
-  ]
+  "movie": {
+    "marvel": [
+      {
+        "title": "No way home",
+        "image": "https://res.cloudinary.com/huuhuu/image/upload/v1648178443/movie/2034_03_ldqvh0.jpg",
+        "year": "2021",
+        "director": ["Jon Watts"],
+        "actors": [
+          "Tom Holland",
+          "Zendaya",
+          "Benedict Cumberbatch",
+          "Jacob Batalon",
+          "Jon Favreau",
+          "Jamie Foxx",
+          "Willem Dafoe",
+          "Alfred Molina",
+          "Benedict Wong"
+        ]
+      },
+      {
+        "title": "Captain America: Nội Chiến Siêu Anh Hùng",
+        "image": "https://res.cloudinary.com/huuhuu/image/upload/v1648178433/movie/97bf27becd0df4ff387b882572925416_dxkhcu.jpg",
+        "year": "2016",
+        "director": ["Anthony Russo ,Joe Russo"],
+        "actors": [
+          "Chris Evans",
+          "Robert Downey Jr.",
+          "Scarlett Johansson",
+          "Sebastian Stan",
+          "Anthony Mackie",
+          "Don Cheadle",
+          "Jeremy Renner",
+          "Chadwick Boseman",
+          "Paul Bettany"
+        ]
+      }
+    ]
+  }
 }
